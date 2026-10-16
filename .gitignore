@@ -1,0 +1,10 @@
+
+target/
+*.class
+
+tasktracker.db
+tasktracker.db-shm
+tasktracker.db-wal
+
+.idea/
+*.iml
